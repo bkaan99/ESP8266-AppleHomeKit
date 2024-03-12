@@ -41,11 +41,14 @@ Artık projeyi yüklemeye hazırsınız. Arduino IDE'yi kullanarak `.ino` dosyas
 
 Bu projede kullanılan ana bileşenler:
 
-- ESP8266 mikrodenetleyici
-- Anahtar anahtarlamak için bir röle (OPSİYONEL)
-- 220V AC güç kaynağı
-- Bağlantı telleri
-- Prototip kartı veya devre kartı
+- ESP01-S (ESP8266)
+- 5V Röle modülü
+- 12V adaptör
+- LM2596 Buck Converter
+- 7805 5v Lineer voltaj regülatörü
+- 100uF kutuplu Kapasitör
+- 100nF kutupsuz Kapasitör
+- BC237 10k direnç 
 
 ## Devre Bağlantıları
 
